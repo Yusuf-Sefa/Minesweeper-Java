@@ -1,0 +1,18 @@
+# Derlenmiş dosyalar
+*.class
+bin/
+
+# VS Code ayarları
+.vscode/
+
+# Eclipse ayar dosyaları (oluşabilir VS Code'ta da)
+.classpath
+.project
+.settings/
+
+# Log dosyaları
+*.log
+
+# OS özel dosyalar
+.DS_Store
+Thumbs.db
